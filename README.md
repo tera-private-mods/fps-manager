@@ -1,7 +1,3 @@
-[![Toolbox](https://img.shields.io/badge/Tera--Toolbox-latest-blueviolet)](https://github.com/tera-toolbox) ![](https://api.dependabot.com/badges/status?host=github&repo=SaltyMonkey/fps-manager) ![](https://github.com/SaltyMonkey/fps-manager/workflows/CI/badge.svg) ![](https://img.shields.io/github/license/SaltyMonkey/fps-manager)
-
-# Current state: second beta version
-
 # FPS Manager
 
 FPS Manager is modern and extremely customizable module for Tera Toolbox which can help to solve annoyance by some in-game messages and fps drops.
@@ -70,11 +66,11 @@ A: Presets must be in JSON format without comments
 
 ## Installation
 
-### [Installation guide](https://github.com/SaltyMonkey/fps-manager/wiki/Installation-guide)
+### [Installation guide](https://github.com/tera-private-mods/fps-manager/wiki/Installation-guide)
 
 ## Usage
 
-### [Wiki](https://github.com/SaltyMonkey/fps-manager/wiki)
+### [Wiki](https://github.com/tera-private-mods/fps-manager/wiki)
 
 ## Contributing
 
@@ -82,6 +78,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Credits 
 
+- [SaltyMonkey](https://github.com/SaltyMonkey) for development of the fps-manager
 - [Caali](https://github.com/caali-hackerman) for Toolbox features and help with understanding how Tera works
 - [Kasea](https://github.com/Kaseaa) for his fps booster memes and working ideas behind it
 - [HugeDong69](https://github.com/codeagon) for his bad code in fps utils which just works (still idk how)

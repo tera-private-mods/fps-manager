@@ -1,7 +1,7 @@
 {
 	"files": {
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-		"README.md": "68df1bcffba1586ca38506aedec8f274aad36ed86140e641bca3e4d14a0567bd",
+		"README.md": "073d9ba8d1196151dc255283b5327c77f3c58595d7e26bf2e86d9c3ae94d4357",
 		"data/migrationData.js": "8cbfe636cbecd91630f3636e7ffc98f6640e1cb082d786fb832c202da2b31d63",
 		"data/protoData.json": "7c2ec8a9aa7667a3b22836750e9a2bde2cbc7462ddd7502c78ebcaa71badff9e",
 		"data/staticData.json": "107c130c95687141c1cd50d0f949dd9dfd192276392bfa7e4aa3eebc8c83e08e",
@@ -12,7 +12,7 @@
 		"lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
 		"lib/unitState.js": "95039645f5d2f235234f2d1379e292c1cea1cb978b4df22aa7fa68acb02d9efb",
 		"lib/unitTracker.js": "f7426397562ff5b4ffe88f069131d7a051a88eeb96b1bcb9a59862ea2fa74081",
-		"module.json": "0879872867c42c0683def1775000bd7112fa0245d4009887bff3282d822d9b42",
+		"module.json": "a85ef3c71ecb1d3baf6f3255709ada05bd67d8e3fcc3ae776a13b6ce484b6e2f",
 		"node_modules/rfdc/LICENSE": "1ce941682a96c7b898ecd125d0f2e22319758ea6f3adbf498a65d649b0f3f7dd",
 		"node_modules/rfdc/index.js": "190dc068bd98e2f0669de0cbd6c6535578df35176bbcde4cfc1cb7f494cc2da0",
 		"node_modules/rfdc/package.json": "87e38a1b6e4cdc368e32085557c26921362631d41a2b26ed28691dc9161ecf4d",
